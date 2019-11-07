@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/c,git,vim,c++,venv,emacs,linux,xcode,macos,python,windows,pycharm,archives,notepadpp,compressed,pycharm+iml,pycharm+all,sublimetext,visualstudio,jupyternotebook,visualstudiocode
 
+### vscode ###
+/.vscode
+
 ### Archives ###
 # It's better to unpack these files and commit the raw source because
 # git has its own built in compression methods.

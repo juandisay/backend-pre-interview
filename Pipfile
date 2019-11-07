@@ -12,8 +12,10 @@ mypy = "*"
 pylint = "*"
 pytest-django = "*"
 pylint-django = "*"
+djangorestframework-xml = "*"
 
 [dev-packages]
+ipython = "*"
 
 [requires]
 python_version = "3.6.6"
