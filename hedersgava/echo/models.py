@@ -1,7 +1,6 @@
 from django.db import models
 import uuid
 
-
 class Devices(models.Model):
 
     TEMPERATURE_SENSOR = 'Temperature Sensor'
